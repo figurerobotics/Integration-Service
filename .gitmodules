@@ -1,4 +1,4 @@
 [submodule "thirdparty/xtypes"]
 	path = thirdparty/xtypes
-	url = https://github.com/eProsima/xtypes.git
+	url = https://github.com/figurerobotics/xtypes.git
 	branch = user/damien/fix-ubuntu-22.04-build
